@@ -1,8 +1,7 @@
-number1 = int(input("Insert a number\n"))
-number2 = int(input("Insert the second number\n"))
+num1 = int(input("Insert first value: "))
+num2 = int(input("Insert second value: "))
 
-print(number1 + number2)
-print(number1 - number2)
-print(number1 * number2)
-print(number1 / number2)
-
+print("The sum is ",num1 + num2)
+print("The difference is ",num1 - num2)
+print("The product is ",num1 * num2)
+print("The quotient is ",num1 / num2)
