@@ -1,0 +1,1 @@
+apple,banana,cat,dog,ice,strawberry,kiwi,shoe,cat,ice,rabbit,ice,cat,dog,apple,apple,ice,cat,table,chair,mouse,cat
