@@ -14,3 +14,9 @@
 6.Data sturctures(Lists)
 
 7.File Handling
+
+8.Dictionary
+
+9.Modular code
+
+10.Buggy code
